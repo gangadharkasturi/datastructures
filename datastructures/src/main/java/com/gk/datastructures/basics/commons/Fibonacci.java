@@ -1,4 +1,4 @@
-package com.gk.datastructures.basics;
+package com.gk.datastructures.basics.commons;
 
 public class Fibonacci {
 
