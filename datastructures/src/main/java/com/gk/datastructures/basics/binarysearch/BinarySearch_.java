@@ -3,8 +3,8 @@ package com.gk.datastructures.basics.binarysearch;
 public class BinarySearch_ {
 
     public static void main(String[] args) {
-        int arr[] = {1, 2, 3, 4, 5, 6, 7, 8, 9};
-        int target = 7;
+        int arr[] = {1,5,8,15,19,21,28,35,60,70,90,99};
+        int target = 19;
         System.out.println(findElement(arr, target));
     }
 
